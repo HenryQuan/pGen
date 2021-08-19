@@ -13,7 +13,7 @@ class AppTitle extends StatelessWidget {
         child: Row(
           children: [
             const Text(
-              "pGen",
+              'pGen',
               textAlign: TextAlign.left,
               style: TextStyle(
                 fontSize: 32,
@@ -26,7 +26,7 @@ class AppTitle extends StatelessWidget {
             //   child: Wrap(
             //     children: [
             //       AdaptiveText(
-            //         "a simple password generator on all platforms",
+            //         'a simple password generator on all platforms',
             //         textAlign: TextAlign.left,
             //         style: TextStyle(
             //           fontWeight: FontWeight.w400,

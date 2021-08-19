@@ -10,7 +10,7 @@ class Copyright extends StatelessWidget {
       alignment: Alignment.bottomCenter,
       child: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: const AdaptiveText("© 2021 Yiheng Quan"),
+        child: const AdaptiveText('© 2021 Yiheng Quan'),
       ),
     );
   }
