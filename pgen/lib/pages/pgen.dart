@@ -111,7 +111,7 @@ class _PGenPageState extends State<PGenPage> {
                     },
                     child: Padding(
                       padding: const EdgeInsets.all(16),
-                      child: AdaptiveText(
+                      child: Text(
                         _password,
                         textAlign: TextAlign.center,
                       ),
